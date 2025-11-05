@@ -1,5 +1,3 @@
-# AI-Mafia-LLM-
-
 # 🕵️ AI Mafia — LLM 기반 심리전 마피아 게임  
 > Runpod + Ollama(EEVE-Korean-10.8B) 기반 • 자연스러운 사회적 상호작용 실험
 
