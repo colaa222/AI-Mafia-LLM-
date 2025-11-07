@@ -223,10 +223,11 @@ LLM(EEVE) 기반 마피아 게임은
 ---
 
 ## 📁 파일 구조
-
+```
 .
 ├── main.py # 터미널 실행
 ├── mafia_core.py # 게임 룰 & 상태
 ├── prompts.py # 프롬프트
 ├── llm_engine.py # Ollama 호출
 └── README.md
+```
