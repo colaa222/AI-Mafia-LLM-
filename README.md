@@ -29,7 +29,7 @@ LLM 기반 대화의 현실적 한계를 고려해
 ---
 
 ## 🧱 시스템 구성
-
+```
 Runpod GPU Container
 │
 ├── Ollama (EEVE-Korean-10.8B 모델)
@@ -41,14 +41,13 @@ Runpod GPU Container
 ├── llm_engine.py # Ollama API 호출
 ├── main.py # 터미널 플레이
 └── README.md
+```
 
-yaml
-코드 복사
 
 ---
 
 ## 🤖 기술 스택
-
+```
 | 기술 | 목적 |
 |------|------|
 | Runpod | GPU 호스팅 |
@@ -56,7 +55,7 @@ yaml
 | EEVE Korean 10.8B | AI 역할/대사 생성 |
 | Python | 게임 엔진 |
 | JSON I/O | 상태·행동 명시적 전달 |
-
+```
 ---
 
 ## ⚙️ 실행 흐름
@@ -73,8 +72,6 @@ AI 반응
 
 승패 체크 → 다음 라운드
 
-yaml
-코드 복사
 
 ### 낮 토론
 - 플레이어 한 줄 발언
@@ -133,8 +130,7 @@ LLM은
 (입술을 깨문다.)
 (주위를 살핀다.)
 
-yaml
-코드 복사
+
 
 ---
 
