@@ -46,7 +46,7 @@ Runpod GPU Container
 ---
 
 ## 🤖 기술 스택
-```
+
 | 기술 | 목적 |
 |------|------|
 | Runpod | GPU 호스팅 |
@@ -54,7 +54,7 @@ Runpod GPU Container
 | EEVE Korean 10.8B | AI 역할/대사 생성 |
 | Python | 게임 엔진 |
 | JSON I/O | 상태·행동 명시적 전달 |
-```
+
 ---
 
 ## ⚙️ 실행 흐름
