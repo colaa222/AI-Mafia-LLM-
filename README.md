@@ -210,7 +210,7 @@ LLM(EEVE) 기반 마피아 게임은
 ---
 
 ## 🚦 차후 개선
-- 더 강한 reasoning 모델 적용 (GPT-5 / QwQ 등)
+- 더 강한 reasoning 모델 적용 (GPT-5)
 - Memory 기반 상태 요약 → 다음 prompt 삽입
 - 캐릭터별 성향(personality) 부여
 - Streamlit UI
